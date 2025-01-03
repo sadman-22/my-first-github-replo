@@ -1,0 +1,24 @@
+h2{
+    font-size: 30px; 
+    text-decoration: overline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.blog{
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px;
+}
+.second{
+    /* display: none; */
+    visibility: hidden;
+}
+
+.bird{
+    border: 2px solid blue;
+}
+
+.header{
+    height: 300px;
+    background-color: bisque;
+    background-image: url('web-developer-skills.jpg');
+}
